@@ -14,14 +14,14 @@ This Python script prints basic information about the operating system using the
 
 ### Example Output
 On a Linux system:
-```
+bash ```
 posix
 Linux
 5.15.0-60-generic
 ```
 
 On a Windows system:
-```
+bash```
 nt
 Windows
 10
